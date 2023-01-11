@@ -1,2 +1,4 @@
 # desafio-cordel
-Site Cordel
+Site Cordel feito como estudo.
+
+Base do modelo do CursoemVídeo.
